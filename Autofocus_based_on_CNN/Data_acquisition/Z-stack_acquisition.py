@@ -56,6 +56,9 @@ while True:
         # Print out message
         print('Captured at', -i)
 
+    # Return to focus position
+    bipolar((i*step)
+
     # Enter to continue
     print("Z-stack collected!")
     answer = input("Please enter yes/no to continue: ")
